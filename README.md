@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-9ec9ff?logo=linkedin&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/GitHub-c9c4e3?logo=github&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Email-f7c6d0?logo=gmail&logoColor=ffffff" />
-
 <br><br>
 🖌️ **Where creativity meets engineering**  
 I build software the same way I draw — with intention, detail, and imagination.  
@@ -29,16 +28,13 @@ From low-level systems to digital art, I love turning ideas into real, working c
 ## 🧪 **Things I Build**
 
 ### 🐾 **Smart Cat Feeder (ESP32 + Sensors)**
-A blend of engineering + creativity:  
-OLED UI, weight sensors, servo motor logic, MQTT logging, safety checks.
+A blend of engineering + creativity: OLED UI, weight sensors, servo motor logic, MQTT logging, safety checks.
 
 ### 🧨 **Buffer Overflow Exploits**
-Binary patching, memory inspection, IDA, GDB —  
-exploring how systems *really* behave underneath.
+Binary patching, memory inspection, IDA, GDB — exploring how systems *really* behave underneath.
 
 ### 🌐 **Fair Packet Scheduler (C)**
-Weighted Fair Queuing simulation written from scratch:  
-virtual finish times, parsing, scheduling decisions.
+Weighted Fair Queuing simulation written from scratch: virtual finish times, parsing, scheduling decisions.
 
 ---
 
