@@ -10,6 +10,7 @@
 <a href="mailto:nicolefrumkin@gmail.com">
   <img src="https://img.shields.io/badge/Email-f7c6d0?logo=gmail&logoColor=ffffff" />
 </a>
+<br>
 <a href="mailto:nicolefrumkin@gmail.com">nicolefrumkin@gmail.com</a>
 
 <br><br>
