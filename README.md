@@ -24,7 +24,6 @@ From low-level systems to digital art, I love turning ideas into real, working c
 - 🥈 2nd place winner — “To the Moon and Back” Hackathon  
 - ⚡ Passionate about system design, debugging, and building from scratch  
 
----
 
 ## 🧪 **Things I Build**
 
@@ -37,11 +36,10 @@ Binary patching, memory inspection, IDA, GDB — exploring how systems *really* 
 ### 🌐 **Fair Packet Scheduler (C)**
 Weighted Fair Queuing simulation written from scratch: virtual finish times, parsing, scheduling decisions.
 
----
 
 <div align="center">
 
-## 🎨 **Tech Palette**
+## 🎨 **Skills Palette**
 
 <!-- Artistic Pastel Badges -->
 ![C](https://img.shields.io/badge/C-89CFF0?style=for-the-badge&logo=c&logoColor=4a4a4a)
@@ -54,7 +52,6 @@ Weighted Fair Queuing simulation written from scratch: virtual finish times, par
 
 </div>
 
----
 
 <div align="center">
 
@@ -65,7 +62,6 @@ Weighted Fair Queuing simulation written from scratch: virtual finish times, par
 
 </div>
 
----
 
 <div align="center">
 
@@ -73,6 +69,6 @@ Weighted Fair Queuing simulation written from scratch: virtual finish times, par
 Whether it's code, art, or a weird hybrid of both —  
 I’m always excited for new projects, collaborations, and ideas.
 
-✨ *Engineering is my structure. Art is my style.*  
+✨ *I don't have talent, I have motivaion.*  
 
 </div>
