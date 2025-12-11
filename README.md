@@ -1,10 +1,10 @@
-# 🌟 **Nicole Frumkin**
+# 🎀 **Nicole Frumkin**
 
 ### *B.Sc. Electrical Engineering Graduate | Software & Embedded Developer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/nicolefrumkin)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/nicolefrumkin)
-[![Email](https://img.shields.io/badge/Email-nicolefrumkin%40gmail.com-red?logo=gmail)](mailto:nicolefrumkin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/nicolefrumkin) 
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/nicolefrumkin) 
+[![Email](https://img.shields.io/badge/Email-nicolefrumkin%40gmail.com-red?logo=gmail)](mailto:nicolefrumkin@gmail.com) 
 
 ---
 
@@ -44,24 +44,18 @@ Fast learner and passionate about **systems programming**, **debugging**, and **
 
 ## 🏅 **Skills**
 
-![C](https://img.shields.io/badge/-C-00599C?logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws\&logoColor=white)
-![vim](https://img.shields.io/badge/-vim-019733?logo=vim\&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c\&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux\&logoColor=black) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker\&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes\&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws\&logoColor=white) 
+![vim](https://img.shields.io/badge/-vim-019733?logo=vim\&logoColor=white) 
 
 ---
 
 ## 🌍 **Languages**
 
-![Hebrew](https://img.shields.io/badge/Hebrew-Native-blue)
-![English](https://img.shields.io/badge/English-Native-blue)
-![Russian](https://img.shields.io/badge/Russian-Native-blue)
-
----
-
-## 🤝 **Let’s Connect!**
-
-Always open to collaborations and opportunities in **software**, **embedded systems**, and **developer tools**.
+![Hebrew](https://img.shields.io/badge/Hebrew-Native-blue) 
+![English](https://img.shields.io/badge/English-Native-blue) 
+![Russian](https://img.shields.io/badge/Russian-Native-blue) 
