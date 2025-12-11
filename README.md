@@ -1,7 +1,3 @@
-Here is a **short, clean, professional** GitHub README based on your CV:
-
----
-
 # 👋 Hi, I’m Nicole Frumkin
 
 **B.Sc. Electrical Engineering Graduate | Software & Embedded Developer**
@@ -50,7 +46,3 @@ C • Python • Linux • Docker • Kubernetes • AWS • vim
 ## 🌍 Languages
 
 Hebrew • English • Russian (all native)
-
----
-
-If you want, I can make it **even shorter**, or more **aesthetic with icons and badges**.
