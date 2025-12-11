@@ -3,9 +3,13 @@
 # 🎨 **Nicole Frumkin**  
 ### *Electrical Engineer • Software Developer • Artist at Heart*
 
-<img src="https://img.shields.io/badge/LinkedIn-9ec9ff?logo=linkedin&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/GitHub-c9c4e3?logo=github&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Email-f7c6d0?logo=gmail&logoColor=ffffff" />
+<a href="https://linkedin.com/in/nicolefrumkin">
+  <img src="https://img.shields.io/badge/LinkedIn-9ec9ff?logo=linkedin&logoColor=ffffff" />
+</a>
+
+<a href="mailto:nicolefrumkin@gmail.com">
+  <img src="https://img.shields.io/badge/Email-f7c6d0?logo=gmail&logoColor=ffffff" />
+</a>
 
 <br><br>
 🖌️ **Where creativity meets engineering**  
