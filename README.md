@@ -1,48 +1,67 @@
-# 👋 Hi, I’m Nicole Frumkin
+# 🌟 **Nicole Frumkin**
 
-**B.Sc. Electrical Engineering Graduate | Software & Embedded Developer**
+### *B.Sc. Electrical Engineering Graduate | Software & Embedded Developer*
 
-📧 [nicolefrumkin@gmail.com](mailto:nicolefrumkin@gmail.com) 
-🔗 [LinkedIn](https://linkedin.com/in/nicolefrumkin) | [GitHub](https://github.com/nicolefrumkin)
-
----
-
-## 🚀 About Me
-
-Electrical Engineering graduate experienced in **C**, **Python**, **Linux**, **Docker**, **Kubernetes**, and **AWS**.
-Fast learner, team player, and passionate about building real systems and solving real problems.
-Winner of the **Apple Excellence Award** and **2nd place** in the *“To the Moon and Back”* hackathon.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/nicolefrumkin)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/nicolefrumkin)
+[![Email](https://img.shields.io/badge/Email-nicolefrumkin%40gmail.com-red?logo=gmail)](mailto:nicolefrumkin@gmail.com)
 
 ---
 
-## 🛠 Key Projects
+## 🧑‍💻 **About Me**
 
-**Smart Cat Feeder (ESP32)** — OLED screen, weight sensors, servo, MQTT logging.
-**Buffer Overflow Exploits** — Low-level debugging, IDA, GDB, patching binaries.
-**Fair Packet Scheduler (C)** — Weighted Fair Queuing simulation and packet scheduling.
-
----
-
-## 🎓 Education
-
-**B.Sc. Electrical Engineering, Tel Aviv University (2021–2025)**
-Moshal Scholar · GPA 83
+Electrical Engineering graduate with experience in **C**, **Python**, **Linux**, **Docker**, **Kubernetes**, and **AWS**.
+Fast learner and passionate about **systems programming**, **debugging**, and **building practical tools**.
+🏆 *Apple Excellence Award* · 🥈 *2nd place in “To the Moon and Back” Hackathon*
 
 ---
 
-## 🏆 Awards
+## 🚀 **Projects**
 
-• 2nd place Hackathon – “To the Moon and Back”
-• Apple Students Excellence Award
+### 🐱 **Smart Cat Feeder (ESP32)**
+
+* OLED screen, weight sensors, buttons, servo motor
+* MQTT logging + scheduled & manual modes
+
+### 🛠 **Buffer Overflow Exploits (Python + Assembly)**
+
+* Debugged real overflow bugs in custom `sudo` binaries
+* Used **IDA**, **GDB**, and memory patching techniques
+
+### 📡 **Fair Packet Scheduler (C)**
+
+* Simulated **Weighted Fair Queuing**
+* Parsed packets, calculated virtual finish times, scheduled flows
 
 ---
 
-## 🛠 Skills
+## 🎓 **Education**
 
-C • Python • Linux • Docker • Kubernetes • AWS • vim
+🎓 **B.Sc. Electrical Engineering**, *Tel Aviv University (2021–2025)*
+⭐ *Moshal Scholar* · GPA **83**
 
 ---
 
-## 🌍 Languages
+## 🏅 **Skills**
 
-Hebrew • English • Russian (all native)
+![C](https://img.shields.io/badge/-C-00599C?logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws\&logoColor=white)
+![vim](https://img.shields.io/badge/-vim-019733?logo=vim\&logoColor=white)
+
+---
+
+## 🌍 **Languages**
+
+![Hebrew](https://img.shields.io/badge/Hebrew-Native-blue)
+![English](https://img.shields.io/badge/English-Native-blue)
+![Russian](https://img.shields.io/badge/Russian-Native-blue)
+
+---
+
+## 🤝 **Let’s Connect!**
+
+Always open to collaborations and opportunities in **software**, **embedded systems**, and **developer tools**.
