@@ -7,8 +7,7 @@
 <img src="https://img.shields.io/badge/GitHub-c9c4e3?logo=github&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Email-f7c6d0?logo=gmail&logoColor=ffffff" />
 
-<br><br>
-
+<br>
 🖌️ **Where creativity meets engineering**  
 I build software the same way I draw — with intention, detail, and imagination.  
 From low-level systems to digital art, I love turning ideas into real, working creations.
