@@ -1,61 +1,67 @@
-# 🎀 **Nicole Frumkin**
+<div align="center">
 
+# 🌸 **Nicole Frumkin**  
 ### *B.Sc. Electrical Engineering Graduate | Software & Embedded Developer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/nicolefrumkin) 
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/nicolefrumkin) 
-[![Email](https://img.shields.io/badge/Email-nicolefrumkin%40gmail.com-red?logo=gmail)](mailto:nicolefrumkin@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soft%20Blue-9ec9ff?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolefrumkin) 
+[![GitHub](https://img.shields.io/badge/GitHub-Lavender%20Gray-c9c4e3?logo=github&logoColor=white)](https://github.com/nicolefrumkin) 
+[![Email](https://img.shields.io/badge/Email-Pastel%20Pink-f7c6d0?logo=gmail&logoColor=white)](mailto:nicolefrumkin@gmail.com) 
+
+</div>
 
 ---
 
-## 🧑‍💻 **About Me**
-
-Electrical Engineering graduate with experience in **C**, **Python**, **Linux**, **Docker**, **Kubernetes**, and **AWS**.
-Fast learner and passionate about **systems programming**, **debugging**, and **building practical tools**.
-🏆 *Apple Excellence Award* · 🥈 *2nd place in “To the Moon and Back” Hackathon*
+## 💖 About Me  
+Electrical Engineering graduate with experience in **C**, **Python**, **Linux**, **Docker**, **Kubernetes**, and **AWS**.  
+Fast learner with a love for building **practical systems**, **debugging low-level bugs**, and creating **clean, functional tools**.  
+✨ Awarded the *Apple Excellence Award*  
+🌙 Won *2nd place* in the “To the Moon and Back” Hackathon
 
 ---
 
-## 🚀 **Projects**
+## 🌼 Projects
 
 ### 🐱 **Smart Cat Feeder (ESP32)**
+- OLED screen, weight sensors, servo  
+- MQTT logging, scheduled + manual modes  
 
-* OLED screen, weight sensors, buttons, servo motor
-* MQTT logging + scheduled & manual modes
+### 🔮 **Buffer Overflow Exploits (Python + Assembly)**
+- Exploited real overflow bugs in custom `sudo` binaries  
+- Used **IDA**, **GDB**, and binary patching techniques  
 
-### 🛠 **Buffer Overflow Exploits (Python + Assembly)**
-
-* Debugged real overflow bugs in custom `sudo` binaries
-* Used **IDA**, **GDB**, and memory patching techniques
-
-### 📡 **Fair Packet Scheduler (C)**
-
-* Simulated **Weighted Fair Queuing**
-* Parsed packets, calculated virtual finish times, scheduled flows
+### 🌈 **Fair Packet Scheduler (C)**
+- Simulation of **Weighted Fair Queuing**  
+- Packet parsing, virtual finish time calculation, scheduling
 
 ---
 
-## 🎓 **Education**
+<div align="center">
 
-🎓 **B.Sc. Electrical Engineering**, *Tel Aviv University (2021–2025)*
-⭐ *Moshal Scholar* · GPA **83**
+## 🎀 Skills
 
----
+![C](https://img.shields.io/badge/-C-b4d8f7?logo=c&logoColor=4a4a4a)  
+![Python](https://img.shields.io/badge/-Python-f5e1fd?logo=python&logoColor=4a4a4a)
+![Linux](https://img.shields.io/badge/-Linux-f7f5d7?logo=linux&logoColor=4a4a4a) 
+![Docker](https://img.shields.io/badge/-Docker-d4eaf7?logo=docker&logoColor=4a4a4a) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-e6dafc?logo=kubernetes&logoColor=4a4a4a) 
+![AWS](https://img.shields.io/badge/-AWS-fce1d4?logo=amazon-aws&logoColor=4a4a4a) 
+![vim](https://img.shields.io/badge/-vim-d6f2c4?logo=vim&logoColor=4a4a4a) 
 
-## 🏅 **Skills**
-
-![C](https://img.shields.io/badge/-C-00599C?logo=c\&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux\&logoColor=black) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker\&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes\&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws\&logoColor=white) 
-![vim](https://img.shields.io/badge/-vim-019733?logo=vim\&logoColor=white) 
+</div>
 
 ---
 
-## 🌍 **Languages**
+<div align="center">
 
-![Hebrew](https://img.shields.io/badge/Hebrew-Native-blue) 
-![English](https://img.shields.io/badge/English-Native-blue) 
-![Russian](https://img.shields.io/badge/Russian-Native-blue) 
+## 🌷 Languages
+![Hebrew](https://img.shields.io/badge/Hebrew-Native-f3d6ff) 
+![English](https://img.shields.io/badge/English-Native-cfeaff) 
+![Russian](https://img.shields.io/badge/Russian-Native-f8dada) 
+
+</div>
+
+---
+
+<div align="center">
+
+</div>
