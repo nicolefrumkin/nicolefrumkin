@@ -15,7 +15,7 @@
 
 <br><br>
 🖌️ **Where creativity meets engineering**  
-I build software the same way I draw — with intention, detail, and imagination.  
+I build software the same way I draw - with intention, detail, and imagination.  
 From low-level systems to digital art, I love turning ideas into real, working creations.
 
 </div>
